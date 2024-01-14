@@ -1,0 +1,52 @@
+\contentsline {section}{\numberline {0.1}Abstract}{3}{}%
+\contentsline {section}{\numberline {0.2}Design Rational}{3}{}%
+\contentsline {subsection}{\numberline {0.2.1}Mechanical System}{3}{}%
+\contentsline {subsubsection}{A- Design Evaluation}{3}{}%
+\contentsline {subsubsection}{B- Innovation System }{4}{}%
+\contentsline {subsubsection}{C- Mechanical Structure}{4}{}%
+\contentsline {subsubsection}{1- Frame}{4}{}%
+\contentsline {subsubsection}{2- Electronics Box}{5}{}%
+\contentsline {subsubsection}{3- Camera}{5}{}%
+\contentsline {subsubsection}{4- Thrusters and Propulsion System }{5}{}%
+\contentsline {subsubsection}{D- Computational Fluid Dynamics}{6}{}%
+\contentsline {subsubsection}{F- Buoyancy}{6}{}%
+\contentsline {subsubsection}{G- Wire Selling}{6}{}%
+\contentsline {subsection}{\numberline {0.2.2}Electrical System}{7}{}%
+\contentsline {subsubsection}{A- TCU(Tether Control Unit)}{7}{}%
+\contentsline {subsubsection}{1- Main Controller}{7}{}%
+\contentsline {subsubsection}{2- GUI (Graphical User Interface) }{7}{}%
+\contentsline {subsubsection}{B- Tether}{7}{}%
+\contentsline {subsubsection}{C- Electronics}{8}{}%
+\contentsline {subsubsection}{1- Power Conversion }{8}{}%
+\contentsline {subsubsection}{2- Electronics Box System}{8}{}%
+\contentsline {subsubsection}{3- Electronics Box Components }{8}{}%
+\contentsline {subsubsection}{I- Sensors}{8}{}%
+\contentsline {subsubsection}{IMU}{9}{}%
+\contentsline {subsubsection}{Pressure Sensor}{9}{}%
+\contentsline {subsubsection}{D- Communication}{9}{}%
+\contentsline {subsubsection}{1- Top Side }{9}{}%
+\contentsline {subsubsection}{1- Underwater Side }{9}{}%
+\contentsline {subsubsection}{E- Vision System}{9}{}%
+\contentsline {subsubsection}{Camera Control}{9}{}%
+\contentsline {subsection}{\numberline {0.2.3}Mission Tools}{10}{}%
+\contentsline {subsubsection}{A- Mechanical Mission Tools}{10}{}%
+\contentsline {subsubsection}{I- Multi functional Manipulator }{10}{}%
+\contentsline {subsubsection}{B- Image Processing Tools}{10}{}%
+\contentsline {subsubsection}{I- Measuring the Length of Fishes}{10}{}%
+\contentsline {subsubsection}{II- Monitor the Lake Against Pollution }{10}{}%
+\contentsline {section}{\numberline {0.3}Safety Rational}{10}{}%
+\contentsline {subsubsection}{A- Design Safety and Philosophy}{10}{}%
+\contentsline {subsubsection}{B- Members’ Safety}{11}{}%
+\contentsline {section}{\numberline {0.4}Conclusion}{12}{}%
+\contentsline {subsubsection}{A- Technical Challenges}{12}{}%
+\contentsline {subsubsection}{1- Mechanical Challenges}{12}{}%
+\contentsline {subsubsection}{2- Electrical Challenges}{13}{}%
+\contentsline {subsubsection}{B- Non-Technical Challenges}{13}{}%
+\contentsline {subsubsection}{C- Technical Lessons Learned}{13}{}%
+\contentsline {subsubsection}{D- Future Improvements }{13}{}%
+\contentsline {subsubsection}{E- Reflections}{14}{}%
+\contentsline {subsubsection}{}{14}{}%
+\contentsline {subsubsection}{}{14}{}%
+\contentsline {subsubsection}{F- Interpersonal Skills Gained}{14}{}%
+\contentsline {section}{\numberline {0.5}Appendices}{15}{}%
+\contentsline {subsubsection}{1- Cost Analysis }{15}{}%
